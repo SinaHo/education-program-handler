@@ -1,0 +1,11 @@
+POST http://address/loc/file.ext http/1.1
+Content-Type: application/json
+Content-Length: /Length/
+accept-language: en-US
+
+
+{
+    "Value1":"data1",
+    "value2":"data2",
+    "value3":"data3"
+}

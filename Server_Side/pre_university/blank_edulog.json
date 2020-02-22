@@ -1,0 +1,122 @@
+{
+  "senior_high_4": {
+    "student": {
+      "name": "",
+      "phone_number": "",
+      "school": "",
+      "grade": "",
+      "field": ""
+    },
+    "log": {
+      "paratexts": {
+        "exam_number": 0,
+        "exam_date": ""
+      },
+      "lessons": {
+        "generals": {
+          "literature": {
+            "raw_score": 0,
+            "balance": 0
+          },
+          "arabi": {
+            "raw_score": 0,
+            "balance": 0
+          },
+          "theology": {
+            "raw_score": 0,
+            "balance": 0
+          },
+          "English": {
+            "raw_score": 0,
+            "balance": 0
+          }
+        },
+
+        "specials": {
+          "mathematics": {
+            "algebra_probabilty": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "discrete math": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "calculus": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "basic math": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "basic geometry": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "analytic geometry": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "total": {
+              "raw_score": 0,
+              "balance": 0
+            }
+          },
+
+          "pyhsics": {
+            "1": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "2": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "3": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "4": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "total": {
+              "raw_score": 0,
+              "balance": 0
+            }
+          },
+
+          "chemistry": {
+            "2": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "3": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "4": {
+              "raw_score": 0,
+              "balance": 0
+            },
+            "total": {
+              "raw_score": 0,
+              "balance": 0
+            }
+          }
+        }
+      },
+
+      "total": {
+        "balance": 0,
+        "rank": 0,
+        "generals_balance": 0,
+        "generals_rank": 0,
+        "specials_balance": 0,
+        "specials_rank": 0,
+        "total_attenders": 0
+      }
+    }
+  }
+}
